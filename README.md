@@ -1,11 +1,11 @@
 # TwitterClone
 A (rather inaccurate) clone of Twitter
 
-#Technologies:
+# Technologies:
 Python -> Flask + SQL-Alchemy
 Svelte
 
-#Features
+# Features
 Account creation
 Logging in and out
 Making tweets
